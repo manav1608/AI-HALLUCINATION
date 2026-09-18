@@ -1,0 +1,6 @@
+{
+  "name": "Kafka & Spark Big Data Analytics Pipeline",
+  "description": "Real-time big data streaming pipeline for claim-level LLM hallucination detection using Apache Kafka, Apache Spark, Prometheus metrics, and Grafana observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
